@@ -32,7 +32,7 @@ int main ()
 	  }
 	}
     }
-  cout << "Total no of words that start with e'= " << count << endl;
+  cout << "Total no of words that start with e= " << count << endl;
 
    f3.close();
 }
